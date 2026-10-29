@@ -1,0 +1,10 @@
+{
+  "name": "NutriSnap - AI Meal Calorie & Macro Scanner",
+  "description": "Instantly calculate meal calories, macronutrients, and ingredient breakdown by snapping a photo of your food.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
